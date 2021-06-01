@@ -76,5 +76,6 @@ int32_t main() {
 	#ifdef LOCAL
     cerr << "\nTime elapsed: " << 1.0 * clock() / CLOCKS_PER_SEC << " s.\n";
 	#endif
+    return 0;
 }
 
