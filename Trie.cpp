@@ -122,4 +122,6 @@ int32_t main() {
 		cin >> s;
 		cout << T.find_string(s) << '\n';
 	}
+	
+	return 0;
 }
